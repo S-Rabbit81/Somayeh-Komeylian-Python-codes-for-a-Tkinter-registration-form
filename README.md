@@ -1,5 +1,5 @@
 
-########################################### Adding Images (or Icons) ############################################################################
+########## Adding Images (or Icons) ############
 
 import tkinter as tk
 from tkinter import messagebox
